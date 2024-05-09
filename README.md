@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-This is my first github repository, and it is empty now. Its code will be the backend code of the Telegram bot.
+It's the backend code of the Telegram bot that gives you a current weather at your location.
